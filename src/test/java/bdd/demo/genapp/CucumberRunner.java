@@ -1,4 +1,4 @@
-package bdd.demo.genapp.repository;
+package bdd.demo.genapp;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.Transient;
 import java.sql.Date;
 
 @Data
@@ -24,6 +23,4 @@ public class Person {
     private String firstName;
     private String lastName;
     private Date dob;
-
-
 }

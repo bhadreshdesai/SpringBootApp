@@ -1,4 +1,4 @@
-package bdd.demo.genapp.repository;
+package bdd.demo.genapp;
 
 import java.lang.reflect.Type;
 
